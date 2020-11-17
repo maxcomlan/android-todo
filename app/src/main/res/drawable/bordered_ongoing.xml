@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <stroke
+        android:color="@color/task_ongoing"
+        android:width="@dimen/task_border_size" />
+    <corners android:radius="@dimen/task_corner_radius"/>
+</shape>

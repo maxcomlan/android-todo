@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="action_clear_list">Vider la liste</string>
+    <string name="action_create_task">Ajouter une tache</string>
+    <string name="toolbar_task_title">Mes taches</string>
+    <string name="input_task_title">Titre de la tache</string>
+    <string name="input_task_desc">En quoi consiste t\'elle ?</string>
+    <string name="zone_create_task">Nouvelle tache à faire</string>
+    <string name="action_confirm_create_task">Ajouter cette tache</string>
+    <string name="create_task_succeeded">La tache a été ajoutée</string>
+    <string name="create_task_errored">Une erreur est survenue lors de l\'ajout</string>
+    <string name="delete_task_succeeded">La tache a été supprimée</string>
+    <string name="delete_task_errored">Une erreur est survenue lors de la suppression</string>
+</resources>
